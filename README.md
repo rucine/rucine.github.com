@@ -1,2 +1,2 @@
-# rucine.github.com
+# rucine.github.io
 Nicolas Rucine personal website
